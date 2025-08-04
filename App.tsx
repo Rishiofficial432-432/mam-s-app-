@@ -77,7 +77,7 @@ const cardContent2 = (
       <br />
       I don't want to just speak English.
       <br />
-      I wanna <em className="italic font-semibold">own it</em> Rishi style, with a sprinkle of Ma'am magic 💫
+      I wanna <em className="italic font-semibold">own it</em> Smit style, with a sprinkle of Ma'am magic 💫
       <br />
       Because you showed us that language isn't just about words
       <br />
